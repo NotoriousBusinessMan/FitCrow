@@ -36,4 +36,14 @@ export const MARQUEE_TAGS = [
     key: "kg",
     label: "Track progressive overload efficiently",
   },
+  {
+    icon: "/time.png",
+    key: "time",
+    label: "Track duration for special exercises",
+  },
+  {
+    icon: "/settings.png",
+    key: "settings",
+    label: "Adjust everything to your advantage",
+  },
 ];

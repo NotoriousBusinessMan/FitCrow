@@ -172,19 +172,19 @@ body {
   scrollbar-width: none; /* Firefox */
 }
 
-.krivon {
+/* .krivon {
   width: 100%;
   overflow: hidden;
 }
 
 .child_of_krivon {
   width: 8000px;
-  display: flex; /* Adjust duration and timing function as needed */
+  display: flex; 
 }
 
 .krivon_babies {
   width: 350px;
-  margin-right: 20px; /* Adjust spacing between items */
+  margin-right: 20px; 
   background-color: #cccccc00;
   animation: scroll 4s linear infinite;
 }
@@ -199,4 +199,4 @@ body {
   100% {
     transform: translateX(-200%);
   }
-}
+} */
